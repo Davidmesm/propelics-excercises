@@ -1,0 +1,8 @@
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise5\obj\Debug\netstandard2.0\Excercise5.csproj.CoreCompileInputs.cache
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise5\obj\Debug\netstandard2.0\Excercise5.AssemblyInfoInputs.cache
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise5\obj\Debug\netstandard2.0\Excercise5.AssemblyInfo.cs
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise5\bin\Debug\netstandard2.0\Excercise5.deps.json
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise5\bin\Debug\netstandard2.0\Excercise5.dll
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise5\bin\Debug\netstandard2.0\Excercise5.pdb
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise5\obj\Debug\netstandard2.0\Excercise5.dll
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise5\obj\Debug\netstandard2.0\Excercise5.pdb

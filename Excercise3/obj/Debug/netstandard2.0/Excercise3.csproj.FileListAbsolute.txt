@@ -1,0 +1,9 @@
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise3\bin\Debug\netstandard2.0\Excercise3.deps.json
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise3\bin\Debug\netstandard2.0\Excercise3.dll
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise3\bin\Debug\netstandard2.0\Excercise3.pdb
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise3\obj\Debug\netstandard2.0\Excercise3.csprojAssemblyReference.cache
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise3\obj\Debug\netstandard2.0\Excercise3.csproj.CoreCompileInputs.cache
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise3\obj\Debug\netstandard2.0\Excercise3.AssemblyInfoInputs.cache
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise3\obj\Debug\netstandard2.0\Excercise3.AssemblyInfo.cs
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise3\obj\Debug\netstandard2.0\Excercise3.dll
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise3\obj\Debug\netstandard2.0\Excercise3.pdb

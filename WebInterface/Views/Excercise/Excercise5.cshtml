@@ -1,0 +1,35 @@
+@{
+    ViewData["Title"] = "Excercise 5";
+}
+
+<br>
+<br>
+<h1>Excercise 5</h1>
+<br>
+<br>
+<div class="alert alert-warning">
+    Write a function to perform basic string compression using the counts of repeated characters;
+    e.g. "aabcccccaaa" would become "a2b1c5a3". If the compressed string would not become
+    smaller than the original string, just print the original string.
+</div>
+<br>
+<br>
+@if(ViewBag.Result != null)
+{
+    <div class="alert alert-success">Result : @ViewBag.Result</div>
+}
+else if(ViewBag.Error != null)
+{
+    <div class="alert alert-danger">Error : @ViewBag.Error</div>
+}
+else
+{
+    @using(Html.BeginForm())
+    {
+        <div class="form-group">
+            <label>Word</label>
+            @Html.TextBox("word", "", new { @class = "form-control" })
+        </div>
+        <button type="submit" class="btn btn-primary">Run</button>
+    }
+}

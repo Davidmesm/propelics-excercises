@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.4" />
+    <ProjectReference Include="../Excercise1/Excercise1.csproj" /> 
+    <ProjectReference Include="../Excercise2/Excercise2.csproj" /> 
+    <ProjectReference Include="../Excercise3/Excercise3.csproj" />
+    <ProjectReference Include="../Excercise4/Excercise4.csproj" />
+    <ProjectReference Include="../Excercise5/Excercise5.csproj" />
+    <ProjectReference Include="../Excercise6/Excercise6.csproj" />
+    <ProjectReference Include="../Excercise7/Excercise7.csproj" />
+    <ProjectReference Include="../Excercise8/Excercise8.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.7.0" />
+    <PackageReference Include="xunit" Version="2.3.1" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.3.1" />
+    <DotNetCliToolReference Include="dotnet-xunit" Version="2.3.1" />
+    <ProjectReference Include="../Excercise1/Excercise1.csproj" />
+    <ProjectReference Include="../Excercise2/Excercise2.csproj" />
+    <ProjectReference Include="../Excercise3/Excercise3.csproj" />
+    <ProjectReference Include="../Excercise4/Excercise4.csproj" />
+    <ProjectReference Include="../Excercise5/Excercise5.csproj" />
+    <ProjectReference Include="../Excercise6/Excercise6.csproj" />
+    <ProjectReference Include="../Excercise7/Excercise7.csproj" />
+  </ItemGroup>
+
+</Project>

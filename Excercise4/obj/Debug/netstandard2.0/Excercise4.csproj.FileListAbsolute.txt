@@ -1,0 +1,9 @@
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise4\obj\Debug\netstandard2.0\Excercise4.csprojAssemblyReference.cache
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise4\obj\Debug\netstandard2.0\Excercise4.csproj.CoreCompileInputs.cache
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise4\obj\Debug\netstandard2.0\Excercise4.AssemblyInfoInputs.cache
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise4\obj\Debug\netstandard2.0\Excercise4.AssemblyInfo.cs
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise4\bin\Debug\netstandard2.0\Excercise4.deps.json
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise4\bin\Debug\netstandard2.0\Excercise4.dll
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise4\bin\Debug\netstandard2.0\Excercise4.pdb
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise4\obj\Debug\netstandard2.0\Excercise4.dll
+C:\Users\morenoda\OneDrive - Hewlett Packard Enterprise\Source\Repos\Propelics\Excercise4\obj\Debug\netstandard2.0\Excercise4.pdb
